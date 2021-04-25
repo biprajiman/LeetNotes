@@ -3,17 +3,18 @@ I have been practicing and interviewing over the years. I started this notes to 
 
 # Problems Notes:
 All the problems described here do not have implementation. Implementation is left for readers. I have selected few problems that are representative  and based on few of the core ideas. This list also summarizes few problems that I have struggled over the years (either to remember or recall). Notes are designed based on python implementation.
-- [Arrays/ Lists](Arrays/README.md)
-- Linked List
-- Binary Search
-- Trees
-- Graphs
-- Two pointers
-- Recursion
-- Dynamic Programming
-- Greedy
-- Divide and Conquor
-- Merge Sort
+- [Arrays/ Lists](Arrays(Lists)/README.md)
+- [Linked List](LinkedList/README.md)
+- [Binary Search](BinarySearch/README.md)
+- [Trees](Trees/README.md)
+- [Graphs](Graphs/README.md)
+- [Two pointers](TwoPointers/README.md)
+- [Sliding Window](SlidingWindow/README.md)
+- [Recursion](Recursion/README.md)
+- [Dynamic Programming](DP/README.md)
+- [Greedy](Greedy/README.md)
+- [Divide and Conquor](DivideandConquor/README.md)
+
 
 # Uncategorized list:
 This README file here lists all the problems in the categorized folders. I created uncategorized list here for quick reference. Additionally this list is necessary because some of the problems could be solved using more than one concept and can fall in more than one category.
