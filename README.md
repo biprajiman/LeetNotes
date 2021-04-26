@@ -3,7 +3,7 @@ I have been practicing and interviewing over the years. I started this notes to 
 
 # Problems Notes:
 All the problems described here do not have implementation. Implementation is left for readers. I have selected few problems that are representative  and based on few of the core ideas. This list also summarizes few problems that I have struggled over the years (either to remember or recall). Notes are designed based on python implementation.
-- [Arrays/ Lists](Arrays(Lists)/README.md)
+- [Arrays/ Lists](ArraysLists)/README.md)
 - [Linked List](LinkedList/README.md)
 - [Binary Search](BinarySearch/README.md)
 - [Trees](Trees/README.md)
