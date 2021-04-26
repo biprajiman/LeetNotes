@@ -1,2 +1,5 @@
 - Find minimum in rotated array ([Leetcode Problem 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/))([Binary Search](https://github.com/biprajiman/LeetNotes/tree/msapkota/main/BinarySearch/README.md))
 - Convert non-negative integer number to its English words representation ([Leetcode Problem 273](https://leetcode.com/problems/integer-to-english-words/))([Recursion/Brute Force](https://github.com/biprajiman/LeetNotes/tree/msapkota/main/Recursion/README.md))
+- Convert non-negative integer number to its English words representation ([Leetcode Problem 273](https://leetcode.com/problems/integer-to-english-words/))([Recursion/Brute Force](Recurse/README.md))
+- Find the smallest missing positive integer in unsorted array nums of integers[Leetcode Problem 41](https://leetcode.com/problems/first-missing-positive/)([Arrays/Lists](ArraysLists/README.md))
+- Random node's value from linked list [Leetcode 382](https://leetcode.com/problems/linked-list-random-node/)([Linked List/Reservoir Sampling](LinkedList/README.md))
