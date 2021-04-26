@@ -1,0 +1,1 @@
+- Find minimum in rotated array ([Leetcode Problem 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)) [Binary Search](BinarySearch/README.md)
