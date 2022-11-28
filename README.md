@@ -1,8 +1,8 @@
 # Summary   
-I have been practicing and interviewing over the years. I started this notes to keep track of some of the problems and summarize the core concept behind the problem (ideally multiple solutions including brute force and optimal). I have tried to categorize the problems into their own folders. I have also tried to provide an uncategorized list with problem catogory tag for quick glance. I have found random list with the tag more effective for me to understand and remember the problem.
+I have been practicing and interviewing over the years. I started this notes to keep track of some of the problems and summarize the core concept behind the problem (ideally multiple solutions including brute force and optimal). I have categorized the problems into their own folders. Complete list of problems is in the uncategorized folder. This is the orgranization that has worked best for me to understand the problems, categories and also revisit if I forget in the future.
 
 # Problems Notes:
-All the problems described here do not have implementation. Implementation is left for readers. I have selected few problems that are representative  and based on few of the core ideas. This list also summarizes few problems that I have struggled over the years (either to remember or recall). Notes are designed based on python implementation.
+All the problems described may not have implementation and is left for readers to implement if needed. I have selected few representative problems for each of the core concepts. This list focus more on the problems that I have struggled over the years (either to remember or recall). Notes are designed based on python implementation.
 - [Arrays/ Lists](ArraysLists)/README.md)
 - [Linked List](LinkedList/README.md)
 - [Binary Search](BinarySearch/README.md)
@@ -17,7 +17,7 @@ All the problems described here do not have implementation. Implementation is le
 
 
 # Uncategorized list:
-This README file here lists all the problems in the categorized folders. I created uncategorized list here for quick reference. Additionally this list is necessary because some of the problems could be solved using more than one concept and can fall in more than one category.
+This README file here lists all the problems. The uncategorized list are meant for quick reference. This list also has problems that could be solved using more than one concept and can fall in more than one category.
 
 # Quick Note
-I have had lots of failed interviews over the years. This is my way of trying to not forget the concepts I have studied over the year. I started this as a self practice and self help rather than guide for anyone else. If you have any feedback or suggestions please reach out. If you want to add or improve upon this, you are always welcome to contribute.
+I had lots of interviews over the years and gathered some experiences around data structures and algorithm problems. This is my way to track those concepts and make it recall efficient. This note taking started a self practice and self help rather than guide for anyone else. If you have any feedback or suggestions please reach out. If you want to add or improve upon this, you are always welcome to contribute.
